@@ -1,1 +1,6 @@
 # learn-haskell
+## 環境構築
+GUCupをインストールする
+```
+curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
+```
